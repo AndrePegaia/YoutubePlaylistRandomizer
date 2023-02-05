@@ -3,4 +3,4 @@ A Youtube audio player that extracts info from an URL and is able to shuffle it'
 
 To use it, run main.py in a python interpreter or find "dist/InterfaceGrafica/InterfaceGrafica.exe" in the executable branch and run it.
 
-Last updated on: 06 jan 2023. No updates being currently worked on
+Last updated on: 06 jan 2023. No updates being currently worked on.
